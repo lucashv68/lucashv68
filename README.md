@@ -17,7 +17,7 @@
 
 ### ✨ Projetos 
 
-🔹 **[Automation Exercice]([https://github.com/lucashv68/automation_Exercice.cy.js](https://github.com/lucashv68/atuomation_Exercice.cy.js))**  
+🔹 **[Automation Exercice](https://github.com/lucashv68/automation_Exercice.cy.js](https://github.com/lucashv68/atuomation_Exercice.cy.js))**  
 > Projeto voltado para testes automatizados com Cypress e validações de APIs com Insomnia.  
 > Estou aprimorando esse projeto como parte do meu aprendizado em QA.  
 > 🛠 Em desenvolvimento...
