@@ -56,11 +56,11 @@
 
 ### 📊 Estatísticas do GitHub
 
-<!-- Se quiser, posso te ajudar a gerar essa imagem com GitHub Stats -->
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucas-henrique-a68098236&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-henrique-a68098236&layout=compact&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucashv68&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucashv68&layout=compact&theme=tokyonight"/>
 </p>
+
 
 ---
 
