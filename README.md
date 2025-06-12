@@ -18,13 +18,12 @@
 ### ✨ Projetos 
 
 🔹 **[Automation Exercice](https://github.com/lucashv68/atuomation_Exercice.cy.js)**  
-> Projeto voltado para testes automatizados com Cypress e validações de APIs com Insomnia.  
-> Estou aprimorando esse projeto como parte do meu aprendizado em QA.  
-> 🛠 Em desenvolvimento...
+> Projeto voltado para testes automatizados com Cypress e requisições de APIs.  
+
 
 ---
 
-🔹 **[Testes Automatizados com Cypress](https://github.com/lucashv68/testes-automatizados-cy)**  
+🔹 **[Testes Automatizados com Cypress](https://github.com/lucashv68/testes-automatizado-cy)**  
 > Conjunto de testes funcionais usando Cypress para praticar automações em aplicações web.  
 > Inclui casos de teste básicos e intermediários.
 
@@ -36,13 +35,13 @@
 
 ---
 
-🔹 **[Requisitos de API com Cypress](https://github.com/lucashv68/Requisitos-API-CY)**  
+🔹 **[Requisitos de API com Cypress](https://github.com/lucashv68/Requisi-es-API-CY)**  
 > Testes de APIs REST usando Cypress para requisições GET, POST, PUT e DELETE.  
 > Excelente para treinar escrita e validação de contratos de API.
 
 ---
 
-🔹 **[Testes de automação - volMed](https://github.com/lucashv68/testes-de-automacao-volMed)**  
+🔹 **[Testes de automação - volMed](https://github.com/lucashv68/volMed-automation-tests)**  
 > Projeto de automação focado em uma aplicação médica fictícia.  
 > Voltado para validação de cadastros, formulários e navegação entre módulos.
 
