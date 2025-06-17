@@ -25,8 +25,8 @@
 ---
 
 🔹 **[Organo - Robot](https://github.com/lucashv68/Testes-Automation-Robot)** 
-Projeto de automação utilizando Robot Framework com SeleniumLibrary e FakerLibrary.
-Automatização de fluxo de cadastro com geração dinâmica de dados e validações de formulários web.
+> Projeto de automação utilizando Robot Framework com SeleniumLibrary e FakerLibrary.
+> Automatização de fluxo de cadastro com geração dinâmica de dados e validações de formulários web.
 
 ---
 
