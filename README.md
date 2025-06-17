@@ -24,17 +24,17 @@
 
 ---
 
+🔹 **[Organo - Robot](https://github.com/lucashv68/Testes-Automation-Robot)** 
+Projeto de automação utilizando Robot Framework com SeleniumLibrary e FakerLibrary.
+Automatização de fluxo de cadastro com geração dinâmica de dados e validações de formulários web.
+
+---
+
 🔹 **[Testes Automatizados com Cypress](https://github.com/lucashv68/testes-automatizado-cy)**  
 > Conjunto de testes funcionais usando Cypress para praticar automações em aplicações web.  
 > Inclui casos de teste básicos e intermediários.
 
----
 
-🔹 **[Testes com Cypress - Bank App](https://github.com/lucashv68/Testes-com-cypress-Bank)**  
-> Testes automatizados de uma aplicação bancária fictícia com foco em fluxo de usuário, autenticação e transferências.  
-> Projeto ideal para demonstrar cenários reais de QA.
-
----
 
 🔹 **[Requisitos de API com Cypress](https://github.com/lucashv68/Requisi-es-API-CY)**  
 > Testes de APIs REST usando Cypress para requisições GET, POST, PUT e DELETE.  
