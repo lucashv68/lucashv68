@@ -34,7 +34,7 @@
 > Conjunto de testes funcionais usando Cypress para praticar automações em aplicações web.  
 > Inclui casos de teste básicos e intermediários.
 
-
+---
 
 🔹 **[Requisitos de API com Cypress](https://github.com/lucashv68/Requisi-es-API-CY)**  
 > Testes de APIs REST usando Cypress para requisições GET, POST, PUT e DELETE.  
